@@ -1,4 +1,4 @@
-# Claude Code as an ACP agent in PhpStorm
+# Claude Code (Docker) as an ACP agent in PhpStorm
 
 Runs Claude Code **inside a dev container** from the JetBrains AI / Air chat panel, using
 the container's Claude Code login, settings and toolchain. The built-in "Claude" entry in
